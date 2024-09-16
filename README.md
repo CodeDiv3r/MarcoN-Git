@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Marco
+- 🌱 I’m currently studying Artificial Intelligence 
